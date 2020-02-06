@@ -10,7 +10,7 @@ Right now the mod has Bavaria, Saxony, Brandenburg, and Berlin with there (asof 
 
 There is also Prussia who is in the game but not with final borders
 
-All above countries have flags for each ideology set up as well as colors
+Prussia has flags for all ideologys and all above countries have colors
 
 The mod is currently broken and freezes when loading history files after selecting a country
 
