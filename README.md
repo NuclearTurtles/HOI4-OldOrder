@@ -2,6 +2,7 @@
 The Old Order mod for HOI4.
 Currently in development with no set release date
 
+The mod takes place in a world where the French Revolution never happened
 
 --STATUS UPDATES--
 
