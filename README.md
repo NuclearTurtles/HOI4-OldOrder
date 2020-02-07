@@ -4,7 +4,12 @@ Currently in development with no set release date
 
 The mod takes place in a world where the French Revolution never happened 
 
+The lastest build is HOI4-The Old Order Indev 1(1211 2-7-20).zip, please download this and not the entire repo
+
 --STATUS UPDATES--
+
+Status 4 (12:46 2-7-20): First Indev release!
+The first Indev release for the mod has been released! The mod is not in a playable state but you can see what changes the mod makes so far. Just download it at HOI4-The Old Order Indev 1(1211 2-7-20).zip from the repo
 
 Status 3 (10:56 2-7-20): Idiocracy 
 I AM AN IDIOT! So I set the captitals of each country to PROVINICES! not states. So it works now. I have still set up Prussia as a seperate country, after borders are done I will probably release a demo.
