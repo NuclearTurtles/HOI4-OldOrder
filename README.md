@@ -4,7 +4,7 @@ Currently in development with no set release date
 
 The mod takes place in a world where the French Revolution never happened 
 
-Download the Indev build(currently on build 1) from releases please read the readme.txt file in the release
+Download the Indev build(currently on build 1.1) from releases please read the readme.txt file in the release
 
 --STATUS UPDATES--
 
@@ -14,6 +14,8 @@ The first Indev release for the mod has been released! The mod is not in a playa
 EDIT: Prussias flags and leader portraits for other ideologies are not working
 
 EDIT 2: Flag errors are because I had RLE compression enabled, will fix and reupload, I will also copy leader portraits from Germany
+
+EDIT 3: Released InDev 1.1 to fix above said errors
 
 Status 3 (10:56 2-7-20): Idiocracy 
 I AM AN IDIOT! So I set the captitals of each country to PROVINICES! not states. So it works now. I have still set up Prussia as a seperate country, after borders are done I will probably release a demo.
