@@ -13,6 +13,8 @@ The first Indev release for the mod has been released! The mod is not in a playa
 
 EDIT: Prussias flags and leader portraits for other ideologies are not working
 
+EDIT 2: Flag errors are because I had RLE compression enabled, will fix and reupload, I will also copy leader portraits from Germany
+
 Status 3 (10:56 2-7-20): Idiocracy 
 I AM AN IDIOT! So I set the captitals of each country to PROVINICES! not states. So it works now. I have still set up Prussia as a seperate country, after borders are done I will probably release a demo.
 
