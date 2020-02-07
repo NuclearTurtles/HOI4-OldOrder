@@ -11,6 +11,8 @@ Download the Indev build(currently on build 1) from releases please read the rea
 Status 4 (12:46 2-7-20): First Indev release!
 The first Indev release for the mod has been released! The mod is not in a playable state but you can see what changes the mod makes so far. Just download it at Indev-1 in the releases section.
 
+EDIT: Prussias flags and leader portraits for other ideologies are not working
+
 Status 3 (10:56 2-7-20): Idiocracy 
 I AM AN IDIOT! So I set the captitals of each country to PROVINICES! not states. So it works now. I have still set up Prussia as a seperate country, after borders are done I will probably release a demo.
 
