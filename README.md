@@ -5,7 +5,7 @@ Currently in development with no set release date
 The mod takes place in a world where the French Revolution never happened
 
 --STATUS UPDATES--
-Status 2 (22:09 2-6-20): Fixing Prussia
+Status 2 (22:09 2-6-20): Fixing Prussia:
 
 Well i have no idea whats wrong with Prussia. I am making Prussia a compleaty new country which will hopfully fix this crap. This will take a sec but should fix the mod. I will post a status update when its finished or if something big happens. 
 
